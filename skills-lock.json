@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "skills": {
+    "aso": {
+      "source": "arnabbagxd/brand-building-skills",
+      "sourceType": "github",
+      "skillPath": "skills/aso/SKILL.md",
+      "computedHash": "424a07a770f9fee268028ec2864cbe0b2008d0220b62541ab5e5be41b70dff09"
+    },
+    "b2b-brand-marketing": {
+      "source": "arnabbagxd/brand-building-skills",
+      "sourceType": "github",
+      "skillPath": "skills/b2b-brand-marketing/SKILL.md",
+      "computedHash": "ee3ce694a34887e68eeaef9e260e31e1bb9ff8b05453de2a2f90c45b137a0f46"
+    },
+    "brand": {
+      "source": "cofoundy/brand-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand/SKILL.md",
+      "computedHash": "e9f6c17eb68cebbbee835df271a560a0c809d979f15e721c24e715a91ff2eafe"
+    },
+    "brand-architecture": {
+      "source": "cofoundy/brand-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-architecture/SKILL.md",
+      "computedHash": "18d754c873f70d1cf13a451d95e97697ccbf76502afe624f611f3ec59e46a6e1"
+    },
+    "brand-audit": {
+      "source": "cofoundy/brand-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-audit/SKILL.md",
+      "computedHash": "caa1a0a8b4bf5eb4e70f441dc9053f2d16a50808cde6499e69086cca964f8a97"
+    },
+    "brand-context": {
+      "source": "cofoundy/brand-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-context/SKILL.md",
+      "computedHash": "7c06809d4ea45417f904b7b03936081f59dae190a6c50b725a94d8227493b8da"
+    },
+    "brand-guidelines": {
+      "source": "cofoundy/brand-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-guidelines/SKILL.md",
+      "computedHash": "1e3811ba7df304705e124272aaa6bbb2073c391a41eb2f803275f149adaae2fd"
+    },
+    "brand-identity": {
+      "source": "cofoundy/brand-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-identity/SKILL.md",
+      "computedHash": "39b6f51c0ecb73893a9deb0e17f79ffb2cc28ace85814408e39f513637a1aec0"
+    },
+    "brand-init": {
+      "source": "cofoundy/brand-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-init/SKILL.md",
+      "computedHash": "f41ab2a1121e6ba3114498a1d71932abd7a1a0e55c19f00babaaca9255f0790a"
+    },
+    "brand-launch": {
+      "source": "arnabbagxd/brand-building-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-launch/SKILL.md",
+      "computedHash": "bebf6b5f946e834ef91667a237e91889126e494b742946cd5a00034114b1faa2"
+    },
+    "brand-manifesto": {
+      "source": "arnabbagxd/brand-building-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-manifesto/SKILL.md",
+      "computedHash": "e6c49d965408dffc4edc0aae6bc94563662c7980f26874008539e941f2ee4d20"
+    },
+    "brand-measurement": {
+      "source": "arnabbagxd/brand-building-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-measurement/SKILL.md",
+      "computedHash": "fe97a68d3c352f6533e52b3a033c350ffc2ebdbfcbd5d53653eb06d3df517ca8"
+    },
+    "brand-messaging": {
+      "source": "cofoundy/brand-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-messaging/SKILL.md",
+      "computedHash": "fa3b93c600741c828744cb4cef01b21021811b1a7855c485c53da6bb4ea07c9e"
+    },
+    "brand-mod": {
+      "source": "cofoundy/brand-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-mod/SKILL.md",
+      "computedHash": "735e4ddad9614a775a65031a6e0f4a104eb958975070e457c48c0c7dcc10a6eb"
+    },
+    "brand-naming": {
+      "source": "arnabbagxd/brand-building-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-naming/SKILL.md",
+      "computedHash": "391c6bbda904c3e4379fb6a741fde4d500aa4ff326ae7d9b1e5f8e8091772bb3"
+    },
+    "brand-packaging": {
+      "source": "arnabbagxd/brand-building-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-packaging/SKILL.md",
+      "computedHash": "f2a1d320d181aa1729e728c93f49ceb9e9393da6bb8441fba65989e136cbb7b9"
+    },
+    "brand-partnerships": {
+      "source": "arnabbagxd/brand-building-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-partnerships/SKILL.md",
+      "computedHash": "7b5a27608e1ae05b3edfcc9101c32de78ae474202200f93ead3ada6c30b57307"
+    },
+    "brand-positioning": {
+      "source": "cofoundy/brand-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-positioning/SKILL.md",
+      "computedHash": "1b1e32f3681a09cc2d8c11abd14bbd259dce92e8619a58bde1b3c5edd764a837"
+    },
+    "brand-story": {
+      "source": "cofoundy/brand-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-story/SKILL.md",
+      "computedHash": "78fe9554a379a3086bdbd7afd873ab13d3bfad8497b295c0a5ef4a3d1c334dc0"
+    },
+    "brand-strategy": {
+      "source": "cofoundy/brand-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-strategy/SKILL.md",
+      "computedHash": "705500d521f8ba2744d18ce6e5546019f4ab65e6cf874d186b12beb806bf1ba3"
+    },
+    "brand-voice": {
+      "source": "cofoundy/brand-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brand-voice/SKILL.md",
+      "computedHash": "1278497ce49281650965d01e65219896809505e20576dbbbae50bf65fbc4db24"
+    },
+    "competitor-branding": {
+      "source": "cofoundy/brand-skills",
+      "sourceType": "github",
+      "skillPath": "skills/competitor-branding/SKILL.md",
+      "computedHash": "cf497fd0c4ae83b28245e74757e5c3ee8566159384086a22d245cc97501234fd"
+    },
+    "d2c-marketing": {
+      "source": "arnabbagxd/brand-building-skills",
+      "sourceType": "github",
+      "skillPath": "skills/d2c-marketing/SKILL.md",
+      "computedHash": "949ddab5e890044d9a1ddca69b62ed73609ce7784735a6ebd2172fb6f95553e8"
+    },
+    "email-marketing": {
+      "source": "arnabbagxd/brand-building-skills",
+      "sourceType": "github",
+      "skillPath": "skills/email-marketing/SKILL.md",
+      "computedHash": "d79751c066156fffe38574738b0db6433f2d9ffe6b1dfd25ee2ddb12bb478c22"
+    },
+    "google-ads": {
+      "source": "arnabbagxd/brand-building-skills",
+      "sourceType": "github",
+      "skillPath": "skills/google-ads/SKILL.md",
+      "computedHash": "06f5464b0ba70cdc5ac31cf8c3b7ef7bae9344e33fe2e0df79e6da016c5cf9ee"
+    },
+    "influencer-marketing": {
+      "source": "arnabbagxd/brand-building-skills",
+      "sourceType": "github",
+      "skillPath": "skills/influencer-marketing/SKILL.md",
+      "computedHash": "7ff62db93081cb0dfa4b3f021346faeeee581d9348793f8862229acb27dce777"
+    },
+    "meta-ads": {
+      "source": "arnabbagxd/brand-building-skills",
+      "sourceType": "github",
+      "skillPath": "skills/meta-ads/SKILL.md",
+      "computedHash": "c20e1e1cd0ad2ed13d4eda85c93d5b5611f7e72de059285c2181a2ea4cd56dcc"
+    },
+    "naming": {
+      "source": "cofoundy/brand-skills",
+      "sourceType": "github",
+      "skillPath": "skills/naming/SKILL.md",
+      "computedHash": "f5379c615c3771990d76188901de5aebb5bbb45c451dc1391099b92bcfab3e8b"
+    },
+    "personal-brand": {
+      "source": "arnabbagxd/brand-building-skills",
+      "sourceType": "github",
+      "skillPath": "skills/personal-brand/SKILL.md",
+      "computedHash": "b9c8d535aa3faa02d3ac20b69df6f63bf190687ffce90d5ac0f205230a365a8e"
+    },
+    "rebranding": {
+      "source": "cofoundy/brand-skills",
+      "sourceType": "github",
+      "skillPath": "skills/rebranding/SKILL.md",
+      "computedHash": "229dedf8e2bd848f4e807357ec0ef4f22e5ec29182b07a9fbe2d075da061665c"
+    },
+    "target-audience": {
+      "source": "cofoundy/brand-skills",
+      "sourceType": "github",
+      "skillPath": "skills/target-audience/SKILL.md",
+      "computedHash": "d202867d52b63ae427fd33d14962a5bc67999b83dfe29e4e80da83803c6dc9df"
+    },
+    "ugc-strategy": {
+      "source": "arnabbagxd/brand-building-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ugc-strategy/SKILL.md",
+      "computedHash": "8bd7708deab9ef8c03a3afe9db73ee5ad095dd526b8f138e51f90ffcf7c75b08"
+    },
+    "whatsapp-marketing": {
+      "source": "arnabbagxd/brand-building-skills",
+      "sourceType": "github",
+      "skillPath": "skills/whatsapp-marketing/SKILL.md",
+      "computedHash": "15b19c6c79087fa86a7912b76c3cd980efd10269c19cc405494e30ef77f121c9"
+    }
+  }
+}
