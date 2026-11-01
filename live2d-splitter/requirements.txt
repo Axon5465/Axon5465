@@ -1,0 +1,5 @@
+numpy
+pillow
+opencv-python-headless>=4.8,<5
+onnxruntime
+psd-tools>=1.10
